@@ -1,2 +1,2 @@
 ALX C programming- printf team project
-Teammate Hailemariam Kefale (haile-mengesha)
+Hailemariam Kefale (haile-mengesha) and Kofi Boateng Owusu-Kwarteng (dadaboat16)
